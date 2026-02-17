@@ -1,6 +1,6 @@
-# testing2
-second test of repository
+## Testing2
+# second test of repository
 
-* 4dturne adrianlara.jpg@gmail.com
-* EmRmz emi4play777@gmail.com
-* Grelani greciaariaass@gmail.com
+* **4dturne** adrianlara.jpg@gmail.com
+* **EmRmz** emi4play777@gmail.com
+* **Grelani** greciaariaass@gmail.com
